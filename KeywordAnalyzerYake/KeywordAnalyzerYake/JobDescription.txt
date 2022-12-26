@@ -1,0 +1,51 @@
+﻿Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue exceeding $40 billion. Our Mission is to enable our customers to make the world healthier, cleaner and safer. Whether our customers are accelerating life sciences research, solving sophisticated analytical challenges, improving patient diagnostics and therapies or increasing productivity in their laboratories, we are here to support them.
+When you’re part of the team at Thermo Fisher Scientific, you’ll do important work, like helping customers in finding cures for cancer, protecting the environment or making sure our food is safe. Your work will have real-world impact, and you’ll be supported in achieving your career goals.
+
+Specifically, for the Materials & Structural Analysis Division, we focus on building software applications intended to support the research and development for Life Sciences, Materials Science or Semiconductor customers worldwide. You will be part of the Global Digital organization within Thermo Fisher Scientific’s larger Materials and Structural Analysis R&D organization, which is committed to bringing groundbreaking software solutions to our customers to help them achieve success.
+
+Location/Division Specific Information
+Hillsboro, Oregon
+Austin, TX
+Remote (must be located on the East Coast)
+
+Analytical Instruments Group, Materials & Structural Analysis Division, Electron Microscopy Software
+
+How will you make an impact?
+
+If you are passionate about software design, dedicated to quality, and pragmatic about problem solving, we'd love to hear from you. We expect a strong desire to collaborate with teammates and project stakeholders to develop successful software solutions for the Life Sciences or Semiconductor business units.
+
+What will you do?
+
+You will be part of the Global Digital organization within Thermo Fisher Scientific’s larger Materials and Structural Analysis R&D organization, which is committed to bringing groundbreaking software solutions to our customers to help them achieve success. The applications being developed focus on using advanced approaches, including cloud/on premise solutions to help engineers and scientists in their research whether in life or material science or for the semi-conductor industry. You will be helping develop the next generation of products that are key to helping our customers solve their most challenging problems more effectively.
+
+How will you get here?
+Education/Experience:
+
+Education
+Master’s degree in Computer Science Engineering or equivalent in related field preferred, or equivalent combination of education, training, and experience.
+
+Experience
+
+    5+ work experience with major aspects of the software development life cycle.
+    3+ work experience in Web Application Development.
+
+Extensive experience in development frameworks and technologies:
+
+    Micro-service architectures.
+    C#, .net core or C++ (or equivalent).
+    REST APIs.
+    Messaging technologies (RabbitMQ, Redis, Kafka, …).
+    Object oriented principles, design patterns, data structures.
+    Database (SQL (Postgres) or NoSQL, Elasticsearch, …).
+
+Knowledge, Skills, Abilities
+
+    Git, Docker, Kubernetes, CI/CD frameworks (Gitlab-CI).
+    Unit testing (TDD), Domain driven Design (DDD).
+    Cloud: Amazon AWS, Azure, or Google stack.
+    Experience, instincts, and enthusiasm around testing, testability and automation.
+    Knowledge about SCRUM and agile methods.
+    Passion for Science.
+
+
+Our global team of more than 100,000 colleagues delivers an outstanding combination of innovative technologies, purchasing convenience and pharmaceutical services through our industry-leading brands, including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services and Patheon. For more information, please visit www.thermofisher.com.
